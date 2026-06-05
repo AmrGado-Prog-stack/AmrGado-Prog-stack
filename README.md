@@ -86,7 +86,7 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmrGado-prog&theme=nord_dark" width="32%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmrGado-prog&theme=nord_dark" width="32%">
@@ -96,7 +96,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrGado-prog&theme=nord_dark" width="100%">
 
-<hr>
+<hr> -->
 
 <!-- <h2>🚀 Featured Projects</h2>
 
