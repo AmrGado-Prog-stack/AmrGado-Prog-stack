@@ -12,7 +12,7 @@
 
 <h2>🌐 Connect with Me</h2>
 
-<a href="https://github.com/AmrGado-prog">
+<a href="https://github.com/AmrGado-Prog-stack">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/amr-mohamed-gado/">
